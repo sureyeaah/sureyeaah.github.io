@@ -13,4 +13,4 @@ So why should you hire me?
 
 Why shouldn't you hire me? (aka things I'm trying to get better at)
 - Mundane tasks can sometimes slow me down. I've found that quickly realizing that period of drag and talking out loud with a colleague about it gets me out of it.
-- I have trouble sleeping sometimes and can lead me to have an off-sync schedule with the rest of the team. I'm working on getting fit and usually days when I workout I'm able to manage my sleep schedule much better.
+- I can sometimes have off-sync schedule with the rest of the team. Days when I workout I'm able to manage this much better.
