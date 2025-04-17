@@ -1,7 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Shaurya's corner of the internet
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-foo
+This is my work-in-progress digital garden of ideas, inspirations and musings.
+
+Some places to get started:
+- [[Why should you hire me?]]

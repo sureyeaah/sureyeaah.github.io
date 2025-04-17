@@ -1,0 +1,1 @@
+(*wip*) Writing about how I went from a shy introvert guy to being popular in SF.

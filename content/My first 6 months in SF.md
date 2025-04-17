@@ -1,0 +1,1 @@
+(*wip*) how being in SF changed my life completely, how I learnt to be charismatic, confident and a people person.

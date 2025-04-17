@@ -1,0 +1,1 @@
+(*wip*) Talks about my competitive programming and my ICPC experience

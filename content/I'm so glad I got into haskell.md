@@ -1,0 +1,1 @@
+(*wip*) Writing about how I got into haskell in school and why you should always follow curiosity over hype.
