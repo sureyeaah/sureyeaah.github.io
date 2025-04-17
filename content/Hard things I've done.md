@@ -9,7 +9,7 @@
 In retrospect, these things seem very trivial to me and I want to work much harder on much more challenging things. What I would like to do next:
 - Scale a company from 0/1 to a world class generational company
 - Become one of the best engineers in the world.
-- Read 100 AI research papers and understand AI enough to be able to contribute
+- Read 100 AI research papers and understand AI enough to be able to contribute.
 - Read a lot.
 - Write words that influence people.
 - Build muscle body connection, get fit, become a great swimmer.
