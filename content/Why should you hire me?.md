@@ -7,7 +7,7 @@ So why should you hire me?
 - I have good product intuition - I can empathize with users and do the whole product cycle from drawing sketches to materializing a working product.
 - I'm great at algorithms (I went to the [[My ICPC experience|ICPC]] twice!)
 - I write beautiful code (can also write shitty code if the situation demands). I was big into compilers and functional programming (primarily [[I'm so glad I got into haskell|Haskell]]) during my undergrad. Vibe coders can spit out working code but software engineering for building a generational company requires writing beautiful long lasting code.
-- I've led small short-lived cross functional teams at startups for projects that required quick iteration and delivery.
+- I've led small short-lived cross functional teams at startups for projects that required quick iteration and delivery. I think people have always relied on me to get hard projects done that also require creativity/dealing with ambiguity.
 - I'm fun! People [[experiments with people|love being around me]] and I bring great energy to any group. Being with the right set of people also sparks a lot of curiosity and creativity for me and it leads me to being so much more productive.
 - I've done some [[Hard things I've done|hard things]]!
 
